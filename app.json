@@ -1,0 +1,13 @@
+{
+ "pages": [
+  "pages/list/list",
+  "pages/add/add"
+],
+  "window":{
+    "backgroundTextStyle":"light",
+    "navigationBarBackgroundColor": "#47C13C",
+    
+    "navigationBarTitleText": "notebook",
+    "navigationBarTextStyle":"white"
+  }
+}
